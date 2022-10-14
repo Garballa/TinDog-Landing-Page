@@ -4,7 +4,7 @@
 }
 h1 {
   font-family: "Montserrat-Black", sans-serif;
-  font-size: 3rem;
+  font-size: 3.5rem;
   line-height: 1.5;
   font-weight: 900;
 }
@@ -33,6 +33,7 @@ body {
   font-size: 1.2rem;
   font-family: "Montserrat";
   font-weight: lighter;
+  color: #fff;
 }
 
 /* Download Buttons*/
@@ -46,4 +47,11 @@ body {
 .title-image {
   width: 60%;
   transform: rotate(25deg);
+}
+
+/* Features */
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
 }
